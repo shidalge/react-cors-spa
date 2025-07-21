@@ -181,6 +181,7 @@ Resources:
             ResponsePagePath: /index.html
           - ErrorCode: 501
             ResponseCode: 501
+            ResponsePagePath: /index.html
             ErrorCachingMinTTL: 0
         PriceClass: PriceClass_All
         Logging:
@@ -216,6 +217,7 @@ Resources:
         CustomErrorResponses:
           - ErrorCode: 501
             ResponseCode: 501
+            ResponsePagePath: /index.html
             ErrorCachingMinTTL: 0
         PriceClass: PriceClass_All
         Logging:
