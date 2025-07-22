@@ -1,4 +1,3 @@
-stackName: demo
-region: us-east-1
-templateFilePath: template.yaml
-capabilities: []
+template-file-path: template.yaml
+parameters: {}
+tags: {}
