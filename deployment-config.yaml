@@ -1,4 +1,4 @@
 stackName: demo
 region: us-east-1
 templateFilePath: template.yaml
-capabilities: []
+executionRoleName: AWSServiceRoleForGitSync 
