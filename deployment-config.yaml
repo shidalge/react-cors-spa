@@ -1,4 +1,4 @@
 stackName: demo
 region: us-east-1
-templateFilePath: infra/template.yaml
+templateFilePath: template.yaml
 capabilities: []
